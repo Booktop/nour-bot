@@ -35,21 +35,21 @@ global.APIKeys = { // APIKey Here
 ]
 
 // Sticker WM
-global.packname = `「 NOUR BOT BY NOUREDDINE 」`
+global.packname = `「 NOUR BOT BY TATWI.COM 」`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'NOUR BOT - 2023'
+global.me = 'BOOKS.TATWI.COM - 2023'
 global.bott = 'Nour md'
 global.nomorown = '212605784394'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
 global.r = '」'
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\ninstagam.com/noureddine_ouafy'
+global.wait = '```「▰▰▰▱▱▱▱▱▱▱」 جاري تلبية طلبكم انتظر...```\nhttp://bit.ly/BOoKs'
 global.eror = '```404 ᴇʀʀᴏʀ```'
 
 global.rpg = {
